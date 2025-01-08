@@ -317,6 +317,8 @@ Na tradição nórdica, um tronco foi cuidadosamente selecionado para que em uma
             <p>Explore os mistérios e riquezas da cultura dos povos nórdicos, desde sua mitologia fascinante até suas tradições vibrantes.</p>
             <div class="imagens">
               <figure>
+                <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga28fIwJAlaKFf5hbyGQp0nbyo8RjvvB59QGuLUVdh31figQqtz9bCvp2j52l9Z75ECfIK-NVWP8pPg_3G4dKshHJ7nM5lLyUm9uRUGw2rQ2MMdytShA8VzTiSFkhg2tW_YbmGITPWDqE/s1600/6.jpg" alt="Nove Nobres Virtudes Nordicas"><figcaption>As Nove Nobres Virtudes Nordicas</figcaption></figure>
+              <figure>
                 <img src="https://www.shutterstock.com/editorial/image-editorial/N8z2ccxfN5j0UayaNzg4NQ==/odin-wodan-scandinavian-supreme-god-dead-his-440nw-7665144gm.jpg" alt="Allfather Woden">
                 <figcaption>Odin, o Pai de Todos</figcaption>
                 </figure>
