@@ -96,12 +96,13 @@ Múspellsheimr: reino do fogo, habitado pelos eldjǫtnar, liderados por Surtr, o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WiAf7ZlpYtg?si=SgEUo9l-SVnOahtn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 Týr: Deus do combate, filho de Óðinn e Frigg.
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TyZHW3GR8fI?si=cSyJNCEBOW4JSibG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<hr>
 Víðarr: Deus da vingança, filho de Óðinn;
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VVXSajgpe4s?si=Y0oFycQruF10mpxS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<hr>
 Freyr: Deus da abundância e irmão de Freyja.  
  Quem era Frey?
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mRsd0j9qTe8?si=Kjc7DifhZyx4GwZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
   <section class="História" id="historia.html">
