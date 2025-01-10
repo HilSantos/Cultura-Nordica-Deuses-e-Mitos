@@ -29,11 +29,9 @@ Parte dois da criação do Projeto Final.
       <p>
         <strong>Os vikings: a história dos povos do norte</strong><br>
 <hr>        
-Os Vikings, cujo nome deriva do termo nórdico antigo "víkingar" ou “vikingr” no singular, foram exploradores, guerreiros, comerciantes e piratas originários do Norte da Europa, especialmente da Escandinávia.    
-Eles deixaram um legado histórico e cultural marcante em diversas regiões da Europa e do Atlântico Norte entre o Século VIII e o Século XI. Navegadores habilidosos e audaciosos, os vikings expandiram seus horizontes, invadindo, explorando e colonizando territórios distantes. Utilizando seus navios chamados "Knǫrr", alcançaram lugares como as Ilhas Britânicas, Ilhas Feroe, Islândia, Groenlândia, Normandia, Mar Báltico e até mesmo a América do Norte. 
-Suas incursões pelos rios Dnieper e Volga influenciaram a história da Rússia, Bielorrússia e Ucrânia modernas, onde eram conhecidos como væringjar (varegues).
-As colônias nórdicas originaram grupos como normandos, nórdicos-gaélicos, russos, faroeses e islandeses, contribuindo para a diversidade cultural e histórica dessas regiões. Os vikings foram ainda mais longe, chegando ao Mar Cáspio, às regiões do Irã, Daguestão, Azerbaijão e até mesmo à Arábia. Notavelmente, foram os primeiros europeus a pisarem na América, estabelecendo uma breve colônia em Terra Nova, Canadá. Enquanto difundiam a cultura nórdica pelo mundo, os Vikings também introduziam escravos e influências culturais estrangeiras em sua terra natal, impactando o desenvolvimento genético e histórico na Escandinávia. Durante a Era Viking, as terras nórdicas unificaram-se progressivamente em três reinos maiores correspondentes aos atuais territórios da Dinamarca, Noruega e Suécia.
-Os vikings falavam em norrœnt mál (língua nórdica antiga), registrando suas realizações em inscrições rúnicas e, principalmente, através das Sagas, contadas oralmente de geração e geração. Embora as antigas religiões nórdicas fossem predominantes, muitos se converteram ao cristianismo em determinado momento.
+Os Vikings, cujo nome deriva do termo nórdico antigo "víkingar" ou “vikingr” no singular, foram exploradores, guerreiros, comerciantes e piratas originários do Norte da Europa, especialmente da Escandinávia. Eles deixaram um legado histórico e cultural marcante em diversas regiões da Europa e do Atlântico Norte entre o Século VIII e o Século XI. Navegadores habilidosos e audaciosos, os vikings expandiram seus horizontes, invadindo, explorando e colonizando territórios distantes. Utilizando seus navios chamados "Knǫrr", alcançaram lugares como as Ilhas Britânicas, Ilhas Feroe, Islândia, Groenlândia, Normandia, Mar Báltico e até mesmo a América do Norte.<br> 
+Suas incursões pelos rios Dnieper e Volga influenciaram a história da Rússia, Bielorrússia e Ucrânia modernas, onde eram conhecidos como væringjar (varegues). As colônias nórdicas originaram grupos como normandos, nórdicos-gaélicos, russos, faroeses e islandeses, contribuindo para a diversidade cultural e histórica dessas regiões. Os vikings foram ainda mais longe, chegando ao Mar Cáspio, às regiões do Irã, Daguestão, Azerbaijão e até mesmo à Arábia. Notavelmente, foram os primeiros europeus a pisarem na América, estabelecendo uma breve colônia em Terra Nova, Canadá. Enquanto difundiam a cultura nórdica pelo mundo, os Vikings também introduziam escravos e influências culturais estrangeiras em sua terra natal, impactando o desenvolvimento genético e histórico na Escandinávia. Durante a Era Viking, as terras nórdicas unificaram-se progressivamente em três reinos maiores correspondentes aos atuais territórios da Dinamarca, Noruega e Suécia.<br>
+Os vikings falavam em norrœnt mál (língua nórdica antiga), registrando suas realizações em inscrições rúnicas e, principalmente, através das Sagas, contadas oralmente de geração e geração. Embora as antigas religiões nórdicas fossem predominantes, muitos se converteram ao cristianismo em determinado momento.<br>
 Quanto à etimologia da palavra "viking", ela permanece incerta. A primeira aparição de "wicinga" ocorreu no poema anglo-saxão Widsith, do Século X. Os próprios vikings não usavam o termo, e nas regiões por eles impactadas, diferentes designações eram utilizadas.
     </p>
 <hr>
@@ -45,26 +43,24 @@ Quanto à etimologia da palavra "viking", ela permanece incerta. A primeira apar
    <p>
 <strong>Mitologia Nórdica</strong><br>
 <hr>  
-A Mitologia Nórdica, também conhecida como mitologia germânica ou escandinava, compreende o conjunto de lendas e crenças dos povos germânicos antigos que habitavam a região da Europa Setentrional.
-Essas narrativas buscam explicar a origem do cosmos, a natureza dos deuses, o destino da humanidade e outros fenômenos naturais.
-Os nove mundos que compõem a mitologia nórdica são governados e habitados por diferentes seres:<br>
-        
+A Mitologia Nórdica, também conhecida como mitologia germânica ou escandinava, compreende o conjunto de lendas e crenças dos povos germânicos antigos que habitavam a região da Europa Setentrional. Essas narrativas buscam explicar a origem do cosmos, a natureza dos deuses, o destino da humanidade e outros fenômenos naturais. Os nove mundos que compõem a mitologia nórdica são governados e habitados por diferentes seres:<br>
+<hr>        
 Miðgarðr: terra média é reino dos humanos, equivalente ao plano material. Protegida por Jǫrð, a deusa da terra, e cercada por Jǫrmungandr, a serpente do mundo;
-
+<hr>
 Asgarðr: reino dos deuses Æsir, situado no mundo superior, os céus e guardado por Heimdallr. Seus líderes são Óðinn, o deus supremo e Frigg, a deusa do casamento e da profecia;
-
+<hr>
 Niflheimr: governada por Hel, filha de Loki, corresponde ao reino do gelo e da névoa, habitado pelos mortos indignos e pelos íssjǫtnar;
-
+<hr>
 Vanaheimr: mundo dos deuses Vanir, associados à fertilidade, magia e natureza. Seu líder é Njǫrðr, o deus do mar e da riqueza;
-
+<hr>
 Svartálfaheimr: habitat dos elfos negros ou anões, especialistas na arte da forja. Seu líder é Hreiðmarr, o rei dos anões;
-
+<hr>
 Jǫtunheimr: reino dos jǫtnar, representando as forças caóticas da natureza, com Þrymr como líder, o rei dos íssjǫtnar;
-
+<hr>
 Níðavellir: reino dos anões ou dvergar, localizado nos subterrâneos de Miðgarðr, conhecidos por sua sabedoria e habilidade na metalurgia. Seu líder é Durinn, o mais antigo dos anões;
-
+<hr>
 Múspellsheimr: reino do fogo, habitado pelos eldjǫtnar, liderados por Surtr, o senhor do fogo;
-
+<hr>
 Álfheimr: reino dos elfos ou álfar, seres mágicos de aparência humana e beleza extraordinária.
 
   </p>
