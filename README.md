@@ -42,7 +42,7 @@ A ERA VIKING - Os Guerreiros BRUTAIS, A Cultura e a Mitologia Nórdica.
 <hr>
   <section class="Mitologia" id="mitologia.html">
     <div class="Mitologia-text">
-   <p>
+<p>
 <strong>Mitologia Nórdica</strong><br>
 <hr>  
 A Mitologia Nórdica, também conhecida como mitologia germânica ou escandinava, compreende o conjunto de lendas e crenças dos povos germânicos antigos que habitavam a região da Europa Setentrional.
@@ -67,7 +67,7 @@ Múspellsheimr: reino do fogo, habitado pelos eldjǫtnar, liderados por Surtr, o
 
 Álfheimr: reino dos elfos ou álfar, seres mágicos de aparência humana e beleza extraordinária.<hr>
 
-  </p>
+</p>
 A Incrivel Saga dos Deuses Nórdicos(COMPLETA) - Mitologia Nordica.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mxgpum97V4E?si=Osc_tH1ES0fB9_Ya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>    
@@ -101,7 +101,7 @@ Víðarr: Deus da vingança, filho de Óðinn;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VVXSajgpe4s?si=Y0oFycQruF10mpxS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
 <hr>
 Freyr: Deus da abundância e irmão de Freyja.  
- Quem era Frey?
+Quem era Frey?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mRsd0j9qTe8?si=Kjc7DifhZyx4GwZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
   <section class="História" id="historia.html">
