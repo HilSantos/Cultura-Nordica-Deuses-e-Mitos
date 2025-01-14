@@ -190,7 +190,9 @@ Deus para mim é Odin - Mitos Nórdicos ontem e hoje Ep. 4 (Entrevista com a pes
 <hr>
 O QUE É O ÁSATRÚ VANATRÚ? A RELIGIÃO DOS VIKINGS?<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RHQCB9sBXEw?si=85xnk-GYCqHl4VZ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-<hr>  
+<hr>
+Song for Odin (A Cappella)<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XJRm_jYTMO4?si=QU-FCCoLzWK88BzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
    <p>
 <strong>Runas "Vikings"</strong><br>
 <hr>  
