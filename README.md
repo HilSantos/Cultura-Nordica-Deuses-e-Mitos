@@ -26,7 +26,7 @@ Parte dois da criação do Projeto Final UC15.
   <section class="Início" id="index.html">
     <div class="Início-text">
   <main>
-      <p>
+    <p>
         <strong>Os vikings: a história dos povos do norte</strong><br>
 <hr>        
 Os Vikings, cujo nome deriva do termo nórdico antigo "víkingar" ou “vikingr” no singular, foram exploradores, guerreiros, comerciantes e piratas originários do Norte da Europa, especialmente da Escandinávia.    
@@ -37,12 +37,12 @@ Os vikings falavam em norrœnt mál (língua nórdica antiga), registrando suas 
 Quanto à etimologia da palavra "viking", ela permanece incerta. A primeira aparição de "wicinga" ocorreu no poema anglo-saxão Widsith, do Século X. Os próprios vikings não usavam o termo, e nas regiões por eles impactadas, diferentes designações eram utilizadas.
     </p>
 <hr>
-A ERA VIKING - Os Guerreiros BRUTAIS, A Cultura e a Mitologia Nórdica.
+  <h2>A ERA VIKING - Os Guerreiros BRUTAIS, A Cultura e a Mitologia Nórdica.</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_DwBsuh98RA?si=oQGDd7mKyforghyV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
   <section class="Mitologia" id="mitologia.html">
     <div class="Mitologia-text">
-<p>
+    <p>
 <strong>Mitologia Nórdica</strong><br>
 <hr>  
 A Mitologia Nórdica, também conhecida como mitologia germânica ou escandinava, compreende o conjunto de lendas e crenças dos povos germânicos antigos que habitavam a região da Europa Setentrional.
@@ -66,58 +66,58 @@ Níðavellir: reino dos anões ou dvergar, localizado nos subterrâneos de Miðg
 Múspellsheimr: reino do fogo, habitado pelos eldjǫtnar, liderados por Surtr, o senhor do fogo;<hr>
 
 Álfheimr: reino dos elfos ou álfar, seres mágicos de aparência humana e beleza extraordinária.<hr>
-
-</p>
-A Incrivel Saga dos Deuses Nórdicos(COMPLETA) - Mitologia Nordica.
+    </p>  
+  <h2>A Incrivel Saga dos Deuses Nórdicos(COMPLETA) - Mitologia Nordica.</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mxgpum97V4E?si=Osc_tH1ES0fB9_Ya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>    
-O começo do mundo VIKING (Parte I).
+  <h2>O começo do mundo VIKING (Parte I).</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ikH7ObS0RLE?si=YLPrJRhzOo7409ig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>    
-Começo do mundo VIKING (Parte II).   
+  <h2>Começo do mundo VIKING (Parte II).</h2>   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3NHJ1ajaoSY?si=nHYau10zXuBWggPK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 <hr>
-Alguns dos poderes governantes das religiões nórdicas (Deuses Vikings):<hr>
+  <h2>Alguns dos poderes governantes das religiões nórdicas (Deuses Vikings):</h2>
+<hr>
     
-Óðinn: Maior dos deuses nórdicos e pai de todos.  
-Quem foi Odin?
+  <p>Óðinn: Maior dos deuses nórdicos e pai de todos.</p>  
+    <p>Quem foi Odin?</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6OewcuACSeU?si=VgxVYOaDkZ_GCcLa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>    
-O Misterioso Pai de Odin, Borr.<br>
+  <h2>O Misterioso Pai de Odin, Borr.</h2><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SPuv6DLtBF4?si=h4EnEzeX2ybfvpYy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
-Frigg: Deusa do casamento e da profecia, esposa de Óðinn.  
-Quem foi Frigg?
+  <h2>Frigg: Deusa do casamento e da profecia, esposa de Óðinn.</h2>  
+    <p>Quem foi Frigg?</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gGDa06APwKc?si=5_sZsS7nkb615HJ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
-Þórr: Deus do trovão e da força, filho de Óðinn.  
-Quem foi Thor?
+  <h2>Þórr: Deus do trovão e da força, filho de Óðinn.</h2>  
+    <p>Quem foi Thor?</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WiAf7ZlpYtg?si=SgEUo9l-SVnOahtn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
-Týr: Deus do combate, filho de Óðinn e Frigg.
+  <h2>Týr: Deus do combate, filho de Óðinn e Frigg.</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TyZHW3GR8fI?si=cSyJNCEBOW4JSibG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
 <hr>
-Víðarr: Deus da vingança, filho de Óðinn;
+  <h2>Víðarr: Deus da vingança, filho de Óðinn.</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VVXSajgpe4s?si=Y0oFycQruF10mpxS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
 <hr>
-Freyr: Deus da abundância e irmão de Freyja.  
-Quem era Frey?
+  <h2>Freyr: Deus da abundância e irmão de Freyja.</h2>  
+    <p>Quem era Frey?</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mRsd0j9qTe8?si=Kjc7DifhZyx4GwZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
   <section class="História" id="historia.html">
     <div class="História-text">
-  <p>
+    <p>
  <strong>Registros históricos</strong><br>
 <hr>    
 Os vikings, oriundos da Noruega, Suécia e Dinamarca, bem como seus descendentes, estabeleceram-se em extensas regiões ao longo da costa do Mar Báltico, abrangendo a maior parte da Rússia continental, a Normandia na França, a Inglaterra, além de realizarem incursões nas costas de diversos outros países europeus, incluindo Portugal, Espanha, Itália, Sicília e partes da Palestina.
 Antes da expedição de Cristóvão Colombo, os vikings também alcançaram a América, embora sua suposta tentativa de colonizar a costa sudeste do Canadá tenha fracassado. Estes guerreiros náuticos partiam de suas terras natais na península escandinava, destacando-se por suas incursões de pilhagem, além de estabelecerem colônias e se envolverem em atividades comerciais.<br>
 A influência cultural dos vikings se estendeu pelo norte da Europa e por outras diversas partes do continente europeu, sendo notável, por exemplo, na Normandia, França, onde Hrólfr (Rollo) adquiriu terras por meio de um acordo com Charles le Simple (Carlos, o Simples), no Tratado de Saint-Clair-sur-Epte. Esse território situa-se no norte da França, nas proximidades da cidade de Ruão. Além disso, Eiríkr hinn rauði (Erik, o Vermelho), após ser expulso da Noruega e da Islândia, estabeleceu colônias na Groenlândia, enquanto Leifr Eiríksson, seu filho, explorou o Canadá.<br>
-Contrariando a representação comum, os vikings não utilizavam capacetes/elmos com chifres, mas eram reconhecidos pelo uso de lanças em homenagem a Óðinn (Odin) e machados. Navegavam em embarcações ágeis, o que facilitava ataques surpresa e rápidas fugas, quando necessárias.
+Contrariando a representação comum, os vikings não utilizavam capacetes/elmos com chifres, mas eram reconhecidos pelo uso de lanças em homenagem a Óðinn (Odin) e machados. Navegavam em embarcações ágeis, o que facilitava ataques surpresa e rápidas fugas, quando necessárias.</p>
 <hr>
-Os Vikings estiveram na América e Brasil? NEVE responde ep. 3
+  <h2>Os Vikings estiveram na América e Brasil? NEVE responde ep. 3</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JYb6nSSJs3A?si=9Jr9xxdbIJPzzYFR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
-      <p>    
+    <p>    
 <strong>A Era Viking</strong><br>
 <hr>  
 Entre os anos de 793 e 1066 d.C., a Era Viking deixou uma marcante impressão na história, destacando-se pelas atividades dos nórdicos, especialmente os escandinavos.
@@ -127,21 +127,18 @@ Reconhecidos por suas habilidades marítimas e guerreiras, os vikings empreender
 Ainda assim, os nórdicos de outrora desempenharam um papel excepcional na introdução do cristianismo na Escandinávia. Entretanto, a Era Viking transcendeu a imagem de invasões e colonizações, revelando uma sociedade complexa e sofisticada. <br>
 Muitos vikings eram agricultores e pescadores, habitando grandes salões. A estrutura social envolvia um sistema de redistribuição, no qual o líder arrecadava impostos em troca de proteção e desenvolvimento de infraestrutura. O legado cultural deixado pelos vikings persiste até os dias atuais, sendo celebrado em diversas partes do mundo.<br> 
 O declínio da Era Viking foi gradual, marcado pela introdução do cristianismo e a formação de nações, o que alterou as estruturas de poder. Muitos líderes vikings migraram para novas regiões, como a Islândia. O último grande acontecimento desse período foi a conquista normanda da Inglaterra em 1066 d.C., com os normandos sendo descendentes diretos dos vikings que se estabeleceram no norte da França no Século X.<br>
-A Era Viking representou um período de exploração, expansão, comércio e conquista para os nórdicos, cujo legado continua a ecoar na cultura, história e paisagens de diversas partes do mundo.
+A Era Viking representou um período de exploração, expansão, comércio e conquista para os nórdicos, cujo legado continua a ecoar na cultura, história e paisagens de diversas partes do mundo.</p>
 <hr>
-  </p>
-  <p>
+   <p>
 <strong>Declinio e Ressurgimento</strong><br>
 <hr>  
-Após décadas de saques, a resistência contra os vikings tornou-se mais eficaz e, com a introdução do cristianismo na Escandinávia, a cultura viking passou por moderações significativas. As incursões vikings cessaram no final do Século XI. A consolidação dos três reinos escandinavos (Noruega, Dinamarca e Suécia) em substituição aos “diversos reinos vikings” no meio do Século XI também pode ter contribuído para o fim dos ataques.<br>
-Os vikings, agora envolvidos nas intrigas políticas que anteriormente os beneficiavam, viram grande parte da energia de seus reis dedicada à governança de suas terras. A propagação do cristianismo enfraqueceu os antigos valores guerreiros pagãos, sendo os nórdicos “assimilados” pelas culturas com as quais tiveram contato. Os ocupantes e conquistadores da Inglaterra tornaram-se ingleses, os normandos transformaram-se em franceses e os Rus evoluíram para russos. Os reis da Noruega, agora cristianizada, continuaram a reivindicar poder em partes do norte da Grã-Bretanha e da Irlanda, resultando em algumas incursões no Século XII, contudo, as principais ambições militares dos governantes escandinavos se deslocaram às novas direções.<br>
+Após décadas de saques, a resistência contra os vikings tornou-se mais eficaz e, com a introdução do cristianismo na Escandinávia, a cultura viking passou por moderações significativas. As incursões vikings cessaram no final do Século XI. A consolidação dos três reinos escandinavos (Noruega, Dinamarca e Suécia) em substituição aos “diversos reinos vikings” no meio do Século XI também pode ter contribuído para o fim dos ataques. Os vikings, agora envolvidos nas intrigas políticas que anteriormente os beneficiavam, viram grande parte da energia de seus reis dedicada à governança de suas terras. A propagação do cristianismo enfraqueceu os antigos valores guerreiros pagãos, sendo os nórdicos “assimilados” pelas culturas com as quais tiveram contato. Os ocupantes e conquistadores da Inglaterra tornaram-se ingleses, os normandos transformaram-se em franceses e os Rus evoluíram para russos. Os reis da Noruega, agora cristianizada, continuaram a reivindicar poder em partes do norte da Grã-Bretanha e da Irlanda, resultando em algumas incursões no Século XII, contudo, as principais ambições militares dos governantes escandinavos se deslocaram às novas direções.<br>
 Em 1107, Sigurðr I da Noruega embarcou para o Mediterrâneo Oriental com os cruzados noruegueses para participarem das batalhas pelo recém-estabelecido Reino de Jerusalém, enquanto dinamarqueses e suecos se envolveram ativamente nas Cruzadas do Báltico nos Séculos XII e XIII.<br> 
 Os governantes escandinavos passaram a concentrar seus esforços na unificação dos três reinos sob única coroa, culminando na Kalmaríkið (União de Kalmar) no final do Século XIV, porém, essa união terminou com a saída da Suécia no Século XVI, durante o contexto histórico do Renascimento. Dinamarca e Noruega permaneceram unidas até o início do Século XIX, com o advento da Revolução Industrial. Isso sugere que, além da cristianização, os descendentes escandinavos dos vikings passaram a se concentrarem mais em questões internas ou regionais no Norte da Europa.<br>
 Atualmente, vários grupos de estudo odinistas e Asatrú (Religião dos Deuses Nórdicos), estão reavivando, em vários países, o paganismo germânico, apresentado como um movimento ecológico empenhado em divulgar e honrar a sacralidade das forças da Natureza e os arquétipos divinos a elas associados. Portanto, independentemente da nacionalidade e das crenças políticas ou religiosas, todos aqueles que querem resgatar as antigas práticas de conexão, reverência e uso sábio dos recursos mágicos da natureza, vão encontrar, no estudo aprofundado dos arquétipos divinos nórdicos e dos símbolos rúnicos, ferramentas valiosas e poderosas para a transformação e renovação individual, coletiva, planetária, desde que para o bem do Todo e de todos aqueles envolvidos, em total respeito à sutil tessitura do wyrd, um exemplo disso é a "santificação" da festa da deusa Ēastre.<br> 
-Essa festividade, com símbolos como coelhos e ovos, originou os nomes da Páscoa em inglês (Easter) e alemão (Ostern, derivado de uma variação de seu nome, Ostera).
-  </p>
+Essa festividade, com símbolos como coelhos e ovos, originou os nomes da Páscoa em inglês (Easter) e alemão (Ostern, derivado de uma variação de seu nome, Ostera).</p>
 <hr>
-VIKING REENACTMENT - Viking Podcast (Viking Cast) S3 #01
+  <h2>VIKING REENACTMENT - Viking Podcast (Viking Cast) S3 #01</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MlQSgCyLopY?si=HOZMsZ5futUXKEbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
   <p>
@@ -200,8 +197,7 @@ Song for Odin (A Cappella)<br>
 A escrita dos vikings era baseada nas rúnar (runas), símbolos gravados em pedras, utilizados até o período da cristianização, que promoveu uma fusão cultural e provocou alterações significativas. Nesse processo de intercâmbio cultural, elementos da cultura cristã foram assimilados pelos vikings, enquanto algumas tradições e concepções das religiões vikings foram adotadas pelos cristãos, contribuindo para a aceitação do cristianismo pelos vikings.<br> 
 Lamentavelmente, foi somente no século XIX, com o movimento nacionalista alemão, que foi despertada a curiosidade popular pela herança ancestral. Os livros de contosde fadas dos irmãos Grimm e as óperas de Richard Wagner, inspiradas nas tradições nórdicas e germânicas, ofereceram contribuições importantes para o aparecimento de grupos místicos e seitas ocultistas. Inicialmente interessadas na divulgação dos mitos e dos símbolos mágicos do passado, culminaram, como visto, com a distorção e o mau uso da sabedoria sagrada do passado feito pelo nazismo.<br>
 As rúnar (runas) são um sistema de escrita e aconselhamento muito importante na cultura nórdica. A palavra "rún", no nórdico antigo, pode ser traduzida como "conselho". Ao longo da história, as rúnar foram usadas para registrar eventos, contar histórias e oferecer conselhos. As rúnar são também, antes de tudo, um sistema de escrita. Elas têm uma história rica e complexa, com cerca de 2000 anos de registros rúnicos encontrados em pedras, artefatos arqueológicos e documentos históricos. Recentemente, pesquisadores encontraram na Noruega, um assentamento humano que data cerca de 9.000 A.C.<br>
-A sacralidade das rúnar é evidente em seu uso religioso, como atestado no Hávamál e em outros documentos, como o Sigrdrífumál e o Rígsþula. A Runologia, o estudo acadêmico e linguístico das rúnar é uma parte importante dos estudos das línguas escandinavas. O entendimento da história e da evolução rúnica é a primeira preocupação de um interessado em Runologia. No uso religioso das rúnar, os Regin (poderes governantes, os Deuses) concedem conselhos, e não "previsões oraculares". O papel oracular na cultura nórdica é realizado pelas völur, mulheres 
-com habilidades mágicas e dons proféticos.<br> 
+A sacralidade das rúnar é evidente em seu uso religioso, como atestado no Hávamál e em outros documentos, como o Sigrdrífumál e o Rígsþula. A Runologia, o estudo acadêmico e linguístico das rúnar é uma parte importante dos estudos das línguas escandinavas. O entendimento da história e da evolução rúnica é a primeira preocupação de um interessado em Runologia. No uso religioso das rúnar, os Regin (poderes governantes, os Deuses) concedem conselhos, e não "previsões oraculares". O papel oracular na cultura nórdica é realizado pelas völur, mulheres com habilidades mágicas e dons proféticos.<br> 
 Em resumo, as rúnar são um aspecto fascinante e complexo da cultura nórdica, com uma rica história e uma variedade de usos e significados. As rúnar são muito mais do que simples símbolos ou ferramentas de adivinhação — são uma parte integral da fé e da história nórdicas.
   </p>
 <hr>
@@ -225,7 +221,8 @@ A alimentação na Dinamarca Viking e Medieval - Cotidiano e História Ep. 10.
 <strong>Como os vikings nos deram as tradições de Natal</strong><br>
 <hr>  
 Especialmente marcado em 25 de dezembro para comemorar o nascimento de Jesus Cristo, o Natal é uma data celebrada por bilhões de pessoas em todo o mundo. A festa é acompanhada por várias tradições que, sem o conhecimento de muitos, têm origens pagãs. Muito antes da chegada do cristianismo às regiões nórdicas, os vikings pagãos e outros povos germânicos antigos celebravam o solstício de inverno no mês de dezembro, a época do ano em que os dias são mais curtos e as noites mais longas.<br> 
-Amigos e parentes se reuniam para comer e beber em um festival conhecido como Yule,  enquanto o cristianismo se espalhava pela Europa germânica séculos atrás, muitas tradições natalinas eram adotadas e absorvidas pela fé cristã, misturando-se para criar o Natal que celebramos hoje. Aqui estão algumas das tradições de Natal mais comuns, as quais devemos agradecer aos vikings:
+Amigos e parentes se reuniam para comer e beber em um festival conhecido como Yule,  enquanto o cristianismo se espalhava pela Europa germânica séculos atrás, muitas tradições natalinas eram adotadas e absorvidas pela fé cristã, misturando-se para criar o Natal que celebramos hoje.<br> 
+Aqui estão algumas das tradições de Natal mais comuns, as quais devemos agradecer aos vikings:
 <hr>
 PAPAI NOEL
 
