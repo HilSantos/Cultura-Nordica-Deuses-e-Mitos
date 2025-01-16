@@ -153,10 +153,9 @@ Eu vim para colocar a divisão entre o filho e seu pai, entre a filha e sua mãe
 Com as bandeiras do medo, terror e desespero, essas foram as bases imorais que instituiu o cristianismo e roubou todas as virtudes de nosso povo usando como suas. Sob a égide de um inferno por um lado, que clamam ser o pior lugar de sofrimento, sendo que poucos conhecem o verdadeiro segredo de sua palavra que vem do latim "inferus" que nada mais era que o Elísio dos ancestrais. E o apocalipse do outro que assim como um programa de TV sensacionalista condena a humanidade a um juízo final e desde 999 de sua era vocês esperam e adiaram para 1999 e meus ancestrais verá 2999, 3999 de vossas eras e eras rindo do vosso desespero. De nunca haver o juízo se não o juízo de que irão sucumbir ao eterno esquecimento. E porque não dizer sobre o direito a família, o amor a seus familiares, o amor sua terra, a confiança em seus amigos, e que veio de nosso seio pagão que vocês professam como instituidores de forma aleijada e decrépita ainda por cima, isso sem comentar sobre a mulher, ah, a mulher, geradora e nutridora da terra, e como as tratam, "as mulheres devem permanecer em silêncio nas igrejas, quando não lhes é permitido falar; mantendo-se em atitude de respeito, como também a Lei ordena." (I Coríntios XIV:XXXIV,XXXV), "e toda mulher que ora ou profetiza com a cabeça descoberta desonra a sua cabeça, pois é como se estivesse com a cabeça rapada." (I Coríntios XI:V),"se desejarem saber mais sobre algum ensino, questionem a seus maridos em casa; porque, para a mulher é vergonhoso conversar durante as reuniões da igreja. (I Coríntios XIV:XXXV), "da mesma maneira, esposas, cada uma de vós, seja submissa a vosso próprio marido, com o propósito de que, se alguns deles ainda são contra a Palavra, sejam convertidos sem admoestações, mas pelo procedimento de sua esposa" (I Pedro III:I). Transtornados pelos resquícios do paganismo de sua crença e Ashera, tomam como perigosa, temem o passado de sua própria corruptela. Uma crença sem mãe, uma crença de um pai que crê ser onisciente, onipotente, que fez vagar seu povo, por milênios e ser escravizados por outros povos. Enquanto nós os pagãos os germânicos seguiam avançando muito antes dos 1979, garantindo o direito desde sempre, de serem livres, longe da propaganda ridícula moderna e isso é feminismo? Não! É muito além disso é a naturalidade da vida que foi ignorada, e que havia muito mais avançada em crescimento em nós politeístas, somos uma grande parede de escudos firmes entre os nossos, perdemos os nossos sensos hoje em dia, não sabemos pra onde estamos indo, mas sentimos esse anseio de reencontro. Conhecemos no nosso âmago os ecos do velho mundo e todo o seu bom senso, seja ele provindo de pais, de filhos, de irmãos, embora não enxerguemos, eu me pergunto, de onde raios, de onde raios vocês vociferam que são o bastião da nobreza e da sabedoria?<br> 
 Perdemos muito tempo, não sabemos aonde estamos ainda, não conhecemos as nós mesmos, desconhecemos nossas funções, mas o politeísta sincero busca e eu poderia alongar durante eras este debate para mostrar, para lhe acordar, para lhe avivar a realidade que passa de ante de vocês, questionem-se, principalmente tu politeísta, pois lhe é um dever. Recobre o antigo, que ainda vive dentro de você. Ainda há muito a se aprender. E digo isso a todos nós. E por favor, não passo mão em ideologia política, afinal meu desejo é muito maior do que meros interesses mesquinhos de poder, é muito maior do que isso é a conquista do ser humano para o ser humano, é a redescoberta do homem para com sua ancestralidade espiritual, é de suma importância de que venhamos a nos polir, e buscar melhoria ao nosso povo, pelo nosso povo, para com todo os genes que constituí os nossos, sem ser escravizados pela ganância humana. E isso se busca lutando em todas as áreas, hasteando nossas bandeiras em todos os âmbitos da vida, sem medo ou estigmas, em busca da sua soberania como pessoa e prosperidade como ser. Não devemos deixar nossa liberdade de lado, na nossa vida e daqueles que amamos, não devemos deixar de amar nossos ancestrais, nossa família, nossos Deuses, e tudo aquilo que construimos não devemos deixar de lutar mesmo se tentarem, lutaremos até o fim corajosos, avançando em defesa aos nossos sem medo. Como grandes guerreiros acima de tudo, honrando o sangue derramado do passado, não devemos ignorar o presente a nossa frente, participando ativamente da vida lá fora buscando nossos sonhos e anseios."<br>
                                                                                                                                                                                                                                                                             
-Inspirações e sabias palavras do ultimo imperador pagão do ocidente, Juliano.<br>
+Inspirações e sabias palavras do ultimo imperador pagão do ocidente, Juliano.</p><br>
 <hr>
-  </p>
-  <p>
+    <p>
 <strong>Igualdade de gênero durante a Era Viking</strong><br>
 <hr>  
 Na Era Viking, a igualdade de gênero floresceu notavelmente, perdurando nas sociedades da Dinamarca, Suécia e Noruega até hoje. Pesquisas recentes revelaram que a prosperidade dessas nações, em termos de educação, saúde, estabilidade econômica e expectativa de vida, remonta aos Séculos VIII a XI, durante a Era Viking. A igualdade de gênero não só beneficiou as mulheres, mas também teve um impacto positivo no crescimento econômico e desenvolvimento em geral. A equidade entre homens e mulheres nórdicos, desde a Era Viking até os dias atuais, destoa significativamente de outras regiões da Europa, especialmente durante a Idade Média.<br>
@@ -164,31 +163,29 @@ A conclusão baseia-se na análise de dados do Global History of Health Project 
 Os especialistas focaram na saúde e nutrição, utilizando os dentes para identificarem evidências de desnutrição ou doença na infância. A análise revelou uma notável igualdade nas condições de saúde entre mulheres e homens vikings. A utilização do comprimento do fêmur como indicador de saúde e dieta também reforça a ideia de homogeneidade entre os homens e as mulheres vikings. A estreita conexão entre a frequência de danos no esmalte dentário e o estado geral de saúde confirma que as mulheres vikings eram altas, fortes e saudáveis, características que contribuíram para a disseminação dos mitos sobre as Valkyrjur (Valquírias). A igualdade fora dos centros urbanos parece ter sido associada à especialização na criação de gado.<br> 
 Enquanto o aumento das colheitas demandava força muscular, tarefa predominantemente realizada por homens, a criação de animais permitiu que as mulheres contribuíssem significativamente para a renda familiar. Esse papel econômico provavelmente elevou a posição das mulheres na sociedade viking, tornando-as notavelmente prósperas em comparação com suas contemporâneas da Europa Medieval.<br>
 A "sociedade viking" se destaca como um exemplo notável de igualdade de gênero. O legado deixado pelas mulheres escandinavas durante a Era Viking continua a influenciar positivamente as sociedades contemporâneas da Dinamarca, Suécia e Noruega, contribuindo para sua prosperidade e estabilidade econômica.
-  </p>
+    </p>
 <hr>
-COMO VIVIAM AS MULHERES NÓRDICAS NA ERA VIKING? #17
+  <h2>COMO VIVIAM AS MULHERES NÓRDICAS NA ERA VIKING? #17</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-E5vl-bNEJQ?si=Dco3r9x5J4iHlF3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
-O PAPEL DAS MULHERES NA ERA VIKING - Viking Podcast (Viking Cast) S3 #03
+  <h2>O PAPEL DAS MULHERES NA ERA VIKING - Viking Podcast (Viking Cast) S3 #03</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yFHmLODhX0Y?si=ZWH192m5HS5NlA5y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
-  </p>
   <section class="Tradições" id="tradicoes.html">
     <div class="Tradições-text">
-  <p>
+    <p>
    <strong>Forn Siðr</strong><br>
 <hr>    
 Forn Siðr, traduzido do norrœnt como "Antigo Costume", representa a fé nórdica nativa, remontando ao período pré-cristão. Essa tradição religiosa está intrinsecamente conectada aos textos escandinavos fundamentais, como a Edda poética e a Edda em prosa. A compreensão do desenvolvimento dos costumes religiosos e culturais nórdicos é facilitada por estudos etimológicos e arqueológicos, ainda assim, existe um equívoco moderno o qual sugere que todas as práticas religiosas e espirituais pré-cristãs foram totalmente perdidas. Contudo, essa não é a realidade para todas as comunidades. Embora algumas culturas tenham experimentado uma ruptura significativa, a cultura e a fé nórdicas nunca foram totalmente suprimidas, mesmo com a cristianização ocorrendo na Escandinávia, embora de maneira mais tardia em comparação a outras regiões da Europa.<br>
-O termo Forn Siðr foi documentado na Ólafs Saga helga (Saga de Ólafr Haraldsson, o Santo — uma das Sagas Nórdicas), no capítulo 76. É importante salientar que não é culturalmente correto referir-se aos praticantes do Forn Siðr como "pagãos". Eles devem ser corretamente chamados de "heiðin" (aqueles que honram o costume).
-  </p>
+O termo Forn Siðr foi documentado na Ólafs Saga helga (Saga de Ólafr Haraldsson, o Santo — uma das Sagas Nórdicas), no capítulo 76. É importante salientar que não é culturalmente correto referir-se aos praticantes do Forn Siðr como "pagãos". Eles devem ser corretamente chamados de "heiðin" (aqueles que honram o costume).</p>
 <hr>
-Deus para mim é Odin - Mitos Nórdicos ontem e hoje Ep. 4 (Entrevista com a pesquisadora Dra. Susan Tsugami).<br>
+  <h2>Deus para mim é Odin - Mitos Nórdicos ontem e hoje Ep. 4 (Entrevista com a pesquisadora Dra. Susan Tsugami).</h2><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/crtpOzAkIXU?si=vgCj9qtAnmL8Zqyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
-O QUE É O ÁSATRÚ VANATRÚ? A RELIGIÃO DOS VIKINGS?<br>
+  <h2>O QUE É O ÁSATRÚ VANATRÚ? A RELIGIÃO DOS VIKINGS?</h2><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RHQCB9sBXEw?si=85xnk-GYCqHl4VZ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 <hr>
-Song for Odin (A Cappella)<br>
+  <h2>Song for Odin (A Cappella)</h2><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XJRm_jYTMO4?si=QU-FCCoLzWK88BzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
    <p>
@@ -198,87 +195,81 @@ A escrita dos vikings era baseada nas rúnar (runas), símbolos gravados em pedr
 Lamentavelmente, foi somente no século XIX, com o movimento nacionalista alemão, que foi despertada a curiosidade popular pela herança ancestral. Os livros de contosde fadas dos irmãos Grimm e as óperas de Richard Wagner, inspiradas nas tradições nórdicas e germânicas, ofereceram contribuições importantes para o aparecimento de grupos místicos e seitas ocultistas. Inicialmente interessadas na divulgação dos mitos e dos símbolos mágicos do passado, culminaram, como visto, com a distorção e o mau uso da sabedoria sagrada do passado feito pelo nazismo.<br>
 As rúnar (runas) são um sistema de escrita e aconselhamento muito importante na cultura nórdica. A palavra "rún", no nórdico antigo, pode ser traduzida como "conselho". Ao longo da história, as rúnar foram usadas para registrar eventos, contar histórias e oferecer conselhos. As rúnar são também, antes de tudo, um sistema de escrita. Elas têm uma história rica e complexa, com cerca de 2000 anos de registros rúnicos encontrados em pedras, artefatos arqueológicos e documentos históricos. Recentemente, pesquisadores encontraram na Noruega, um assentamento humano que data cerca de 9.000 A.C.<br>
 A sacralidade das rúnar é evidente em seu uso religioso, como atestado no Hávamál e em outros documentos, como o Sigrdrífumál e o Rígsþula. A Runologia, o estudo acadêmico e linguístico das rúnar é uma parte importante dos estudos das línguas escandinavas. O entendimento da história e da evolução rúnica é a primeira preocupação de um interessado em Runologia. No uso religioso das rúnar, os Regin (poderes governantes, os Deuses) concedem conselhos, e não "previsões oraculares". O papel oracular na cultura nórdica é realizado pelas völur, mulheres com habilidades mágicas e dons proféticos.<br> 
-Em resumo, as rúnar são um aspecto fascinante e complexo da cultura nórdica, com uma rica história e uma variedade de usos e significados. As rúnar são muito mais do que simples símbolos ou ferramentas de adivinhação — são uma parte integral da fé e da história nórdicas.
-  </p>
+Em resumo, as rúnar são um aspecto fascinante e complexo da cultura nórdica, com uma rica história e uma variedade de usos e significados. As rúnar são muito mais do que simples símbolos ou ferramentas de adivinhação — são uma parte integral da fé e da história nórdicas.</p>
 <hr>
-  <p>
+    <p>
 <strong>Alimentação na Era Viking</strong><br>
 <hr>  
 Um aspecto importante dos nórdicos da Era Viking é a alimentação, que refletia as condições geográficas, climáticas e sazonais da região. A dieta viking era baseada principalmente em produtos de origem animal, como carne, leite, queijo, manteiga, ovos e mel.
 Eles criavam animais domésticos, como vacas, ovelhas, cabras, porcos, galinhas e patos, caçavam animais selvagens, como alces, veados, ursos, lobos, raposas e lebres.<br> 
 Os vikings também pescavam peixes, como salmão, arenque, bacalhau e truta, e coletavam frutos do mar, como mariscos, ostras, mexilhões e caranguejos. Os nórdicos de outrora consumiam produtos de origem vegetal, como cereais, legumes, frutas e ervas. Eles cultivavam trigo, cevada, aveia e centeio, fazendo pão, mingau, cerveja e hidromel. Eles também plantavam ervilhas, feijões, nabos, cenouras, repolhos, alhos, cebolas e alfaces, tal qual colhiam frutas silvestres, como amoras, framboesas, mirtilos e morangos. Eles usavam ervas aromáticas, como endro, salsa, tomilho, alecrim e hortelã, para temperar os alimentos e fazer chás.<br>
-Os vikings se alimentavam de forma simples, mas variada, aproveitando os recursos disponíveis em cada estação do ano. Eles também preservavam os alimentos por meio de técnicas como salga, 
-defumação, secagem e fermentação para garantir o abastecimento durante o inverno. A alimentação viking era nutritiva e equilibrada, fornecendo energia e saúde para um povo guerreiro e aventureiro.
-  </p>
+Os vikings se alimentavam de forma simples, mas variada, aproveitando os recursos disponíveis em cada estação do ano. Eles também preservavam os alimentos por meio de técnicas como salga, defumação, secagem e fermentação para garantir o abastecimento durante o inverno. A alimentação viking era nutritiva e equilibrada, fornecendo energia e saúde para um povo guerreiro e aventureiro.</p>
 <hr>
-Os pães da Era Viking - Cotidiano e História Ep. 1
+  <h2>Os pães da Era Viking - Cotidiano e História Ep. 1</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rrs5E2Cp5Qg?si=mTE5YgpNLsj-JveM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
-A alimentação na Dinamarca Viking e Medieval - Cotidiano e História Ep. 10.
+  <h2>A alimentação na Dinamarca Viking e Medieval - Cotidiano e História Ep. 10.</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lhRChdsQxTU?si=aLABNx77xrupuCBF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
-  <p>
+    <p>
 <strong>Como os vikings nos deram as tradições de Natal</strong><br>
 <hr>  
 Especialmente marcado em 25 de dezembro para comemorar o nascimento de Jesus Cristo, o Natal é uma data celebrada por bilhões de pessoas em todo o mundo. A festa é acompanhada por várias tradições que, sem o conhecimento de muitos, têm origens pagãs. Muito antes da chegada do cristianismo às regiões nórdicas, os vikings pagãos e outros povos germânicos antigos celebravam o solstício de inverno no mês de dezembro, a época do ano em que os dias são mais curtos e as noites mais longas.<br> 
 Amigos e parentes se reuniam para comer e beber em um festival conhecido como Yule,  enquanto o cristianismo se espalhava pela Europa germânica séculos atrás, muitas tradições natalinas eram adotadas e absorvidas pela fé cristã, misturando-se para criar o Natal que celebramos hoje.<br> 
 Aqui estão algumas das tradições de Natal mais comuns, as quais devemos agradecer aos vikings:
 <hr>
-PAPAI NOEL
+PAPAI NOEL<br>
 
 O Deus Odin é considerado "o Pai de todos os Deuses". Descrito como um velho barbudo de chapéu e capa, Odin costuma cavalgar em seu cavalo de oito patas, Sleipnir, pelos céus durante as noites
 do solstício de inverno, entregando presentes aos que estavam no solo. Soa familiar? Embora possa ser argumentado que o nosso Papai Noel seja a fusão de antigos mitos, lendas e folclore, a semelhança e a conexão com o Deus nórdico é defendida por vários historiadores, ou seja, para eles, Odin é o Papai Noel original.
 
 <hr>
-A VERDADEIRA ORIGEM DO "PAPAI NOEL" e do 25 de dezembro (por Elke Maravilha).
+  <h2>A VERDADEIRA ORIGEM DO "PAPAI NOEL" e do 25 de dezembro (por Elke Maravilha).</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5a3JpTh48nM?si=8xLUQre9Dsw0tlv8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>    
-10 COISAS QUE VOCÊ NÃO SABE SOBRE O NATAL! (Carol Capel).
+  <h2>10 COISAS QUE VOCÊ NÃO SABE SOBRE O NATAL! (Carol Capel).</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HN6op1hE1tQ?si=Ra73M6--fag0z106" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
-DUENDE DE NATAL
+DUENDE DE NATAL<br>
 
-Mais uma vez, devemos agradecer à Mitologia Nórdica por outro de nossos conhecidos baluartes de Natal, o elfo. Referidos como álfar (de onde vem a palavra 'elfo') ou 'pessoas escondidas',
-esses seres sobrenaturais são frequentemente descritos como altos, pálidos, belos e detentores de poderes mágicos.
-Então, como passamos do álfar para os elfos que imaginamos na oficina do Papai Noel? Mais uma vez, temos outro mito do folclore nórdico a agradecer, o do 'nisse'. A nisse é uma criatura
-mitológica associada ao solstício de inverno e ao Natal, mais bem descrita como um gnomo de jardim — baixinho e que usa um chapéu pontudo vermelho.<br>
+Mais uma vez, devemos agradecer à Mitologia Nórdica por outro de nossos conhecidos baluartes de Natal, o elfo. Referidos como álfar (de onde vem a palavra 'elfo') ou 'pessoas escondidas', esses seres sobrenaturais são frequentemente descritos como altos, pálidos, belos e detentores de poderes mágicos. Então, como passamos do álfar para os elfos que imaginamos na oficina do Papai Noel? Mais uma vez, temos outro mito do folclore nórdico a agradecer, o do 'nisse'. A nisse é uma criatura mitológica associada ao solstício de inverno e ao Natal, mais bem descrita como um gnomo de jardim — baixinho e que usa um chapéu pontudo vermelho.<br>
 Diz-se que as pequenas criaturas vivem nos estábulos e celeiros de uma herdade, guardando a propriedade e os que moram dentro dela. Trate-o bem e ele será útil para você, trate-o mal e esteja preparado para algumas travessuras em sua casa, talvez explicando o porquê dos duendes de Natal contemporâneos serem frequentemente representados como atrevidos.
 
 <hr>
-ÁRVORES DE NATAL
+ÁRVORES DE NATAL<br>
 
 Os nórdicos de outrora adoravam árvores, especialmente as perenifólias das florestas escandinavas, as quais acreditavam ser a planta especial de Balder, o Deus do Sol. Como permanecem verdes durante todo o inverno, as árvores passaram a representar a promessa de uma nova vida, um lembrete de que a primavera chegaria. Na antiga tradição nórdico-germânica, as perenifólias eram frequentemente decoradas com pequenas esculturas dos deuses e comida, na esperança de encorajar os espíritos das árvores a voltarem para trazerem uma nova primavera.
 
 <hr>
-GUIRLANDA
+GUIRLANDA<br>
     
 Embora os romanos originalmente criassem grinaldas para serem exibidos como um símbolo de vitória, eles se conectavam às nossas celebrações festivas por meio do Yule. As guirlandas eram criadas com uma planta perene, tal como as perenifólias, e eram levadas para as residências das pessoas durante o Natal, a fim de lembrá-las dos dias mais quentes que viriam, um símbolo tranquilizador durante os longos e frios invernos do norte escandinavo. Os próprios vikings incendiaram uma 'roda solar', que se assemelhava fortemente às nossas guirlandas modernas. A roda em chamas era então rolada colina abaixo na esperança de atrair o sol.
     
 <hr>
-VISCO 
+VISCO<br> 
     
 De acordo com a lenda nórdica, o filho de Odin, Balder, foi profetizado para morrer, então sua mãe Frigga visitou todas as entidades do cosmos para garantir que nenhuma delas machucasse seu filho. Ela deixou de consultar o visco por acreditar que era muito pequeno e inofensivo para ameaçar a vida de Balder. Loki ficou sabendo desse descuido e esculpiu uma flecha no visco. Mais tarde, Balder foi morto por sua única fraqueza, uma flecha de visco criada por Loki. Em uma versão da história, as lágrimas de tristeza de Frigga caíram sobre o visco vermelho, tornando-o branco, ressuscitando seu filho. Então, o visco passou a representar a renovação, o amor e a paz com Frigga, protegendo assim qualquer um que passe por baixo dele.
     
 <hr>
-12 DIAS DE NATAL 
+12 DIAS DE NATAL<br> 
     
 Antes das canções natalinas, como The Twelve Days Of Christmas (Os doze dias de Natal) — que retratam a entrega de uma perdiz em uma pereira (arvore de pera) —, os antigos nórdicos funcionalidades vam, por exatamente doze dias, de seu festival de inverno, o Yule. A partir do dia do solstício de inverno (o dia e a noite mais longas), os festejos prolongaram-se por 12 dias, dando origem aos 12 dias de Natal celebrados hoje.
     
 <hr>
-TENDER DE NATAL 
+TENDER DE NATAL<br> 
     
 É um prato que aparece na maioria das mesas de Natal em algum momento da festividade e, mais uma vez, agradecemos agradecimento aos nórdicos pelo nosso tender de Natal. O banquete desempenhou um papel central na maneira como os vikings e outros povos germânicos antigos honraram os deuses. Um desses rituais via o sacrifício de um Javali ao deus nórdico Freyr na esperança de uma colheita frutífera na próxima estação. O javali seria uma peça central da festa, muito parecida com o concurso que adorna nossas mesas modernas.
     
 <hr>
-TRONCO DE YULE 
+TRONCO DE YULE<br> 
     
 Na tradição nórdica, um tronco foi cuidadosamente selecionado para que em uma cabine fosse levado para dentro de casa e queimado em uma lareira (de tijolo ou revestido de pedra) durante o Yule. Parte dele seria salvo e desligado até o ano seguinte, não apenas para proteger a casa, mas também para servir de lenha para o Yule subsequente. Embora uma tradição continue até hoje em todo o mundo, ela também se transformou em comida, com muitas pessoas optando por decorar suas mesas de Natal com um Bolo de Natal, ou Log de Yule — um rocambole de chocolate, coberto por chocolate e groselhas.ela também se transformou em comida, com muitas pessoas optando por decorar suas mesas de Natal com um Bolo de Natal, ou Log de Yule — um rocambole de chocolate, coberto por chocolate e groselhas.ela também se transformou em comida, com muitas pessoas optando por decorar suas mesas de Natal com um Bolo de Natal, ou Log de Yule — um rocambole de chocolate, coberto por chocolate e groselhas.
 <hr>
-  </p>
+    </p>
   </div>
   </section>
         <section>
-            <h2>Bem-vindo à cultura nórdica</h2>
+            <h3>Bem-vindo à cultura nórdica</h3>
             <p>Explore os mistérios e riquezas da cultura dos povos nórdicos, desde sua mitologia fascinante até suas tradições vibrantes.</p>
             <div class="imagens">
               <figure>
