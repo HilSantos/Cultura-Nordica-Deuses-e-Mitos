@@ -80,7 +80,7 @@ Múspellsheimr: reino do fogo, habitado pelos eldjǫtnar, liderados por Surtr, o
 <hr>
     
   <h2>Óðinn: Maior dos deuses nórdicos e pai de todos.</h2>  
-    Quem foi Odin?
+    Quem foi Odin?<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6OewcuACSeU?si=VgxVYOaDkZ_GCcLa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>    
   <h2>O Misterioso Pai de Odin, Borr.</h2><br>
