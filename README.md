@@ -266,7 +266,7 @@ Na tradição nórdica, um tronco foi cuidadosamente selecionado para que em uma
   </div>
   </section>
         <section>
-            <h3>Bem-vindo à cultura nórdica</h3>
+            <h2>Bem-vindo à cultura nórdica</h2>
             <p>Explore os mistérios e riquezas da cultura dos povos nórdicos, desde sua mitologia fascinante até suas tradições vibrantes.</p>
             <div class="imagens">
               <figure>
