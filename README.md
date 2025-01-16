@@ -87,11 +87,11 @@ Múspellsheimr: reino do fogo, habitado pelos eldjǫtnar, liderados por Surtr, o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SPuv6DLtBF4?si=h4EnEzeX2ybfvpYy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
   <h2>Frigg: Deusa do casamento e da profecia, esposa de Óðinn.</h2>  
-    Quem foi Frigg?
+    Quem foi Frigg?<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gGDa06APwKc?si=5_sZsS7nkb615HJ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
   <h2>Þórr: Deus do trovão e da força, filho de Óðinn.</h2>  
-    Quem foi Thor?
+    Quem foi Thor?<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WiAf7ZlpYtg?si=SgEUo9l-SVnOahtn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
   <h2>Týr: Deus do combate, filho de Óðinn e Frigg.</h2>
@@ -101,7 +101,7 @@ Múspellsheimr: reino do fogo, habitado pelos eldjǫtnar, liderados por Surtr, o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VVXSajgpe4s?si=Y0oFycQruF10mpxS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
 <hr>
   <h2>Freyr: Deus da abundância e irmão de Freyja.</h2>  
-    Quem era Frey?
+    Quem era Frey?<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mRsd0j9qTe8?si=Kjc7DifhZyx4GwZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
   <section class="História" id="historia.html">
@@ -109,8 +109,7 @@ Múspellsheimr: reino do fogo, habitado pelos eldjǫtnar, liderados por Surtr, o
     <p>
  <strong>Registros históricos</strong><br>
 <hr>    
-Os vikings, oriundos da Noruega, Suécia e Dinamarca, bem como seus descendentes, estabeleceram-se em extensas regiões ao longo da costa do Mar Báltico, abrangendo a maior parte da Rússia continental, a Normandia na França, a Inglaterra, além de realizarem incursões nas costas de diversos outros países europeus, incluindo Portugal, Espanha, Itália, Sicília e partes da Palestina.
-Antes da expedição de Cristóvão Colombo, os vikings também alcançaram a América, embora sua suposta tentativa de colonizar a costa sudeste do Canadá tenha fracassado. Estes guerreiros náuticos partiam de suas terras natais na península escandinava, destacando-se por suas incursões de pilhagem, além de estabelecerem colônias e se envolverem em atividades comerciais.<br>
+Os vikings, oriundos da Noruega, Suécia e Dinamarca, bem como seus descendentes, estabeleceram-se em extensas regiões ao longo da costa do Mar Báltico, abrangendo a maior parte da Rússia continental, a Normandia na França, a Inglaterra, além de realizarem incursões nas costas de diversos outros países europeus, incluindo Portugal, Espanha, Itália, Sicília e partes da Palestina. Antes da expedição de Cristóvão Colombo, os vikings também alcançaram a América, embora sua suposta tentativa de colonizar a costa sudeste do Canadá tenha fracassado. Estes guerreiros náuticos partiam de suas terras natais na península escandinava, destacando-se por suas incursões de pilhagem, além de estabelecerem colônias e se envolverem em atividades comerciais.<br>
 A influência cultural dos vikings se estendeu pelo norte da Europa e por outras diversas partes do continente europeu, sendo notável, por exemplo, na Normandia, França, onde Hrólfr (Rollo) adquiriu terras por meio de um acordo com Charles le Simple (Carlos, o Simples), no Tratado de Saint-Clair-sur-Epte. Esse território situa-se no norte da França, nas proximidades da cidade de Ruão. Além disso, Eiríkr hinn rauði (Erik, o Vermelho), após ser expulso da Noruega e da Islândia, estabeleceu colônias na Groenlândia, enquanto Leifr Eiríksson, seu filho, explorou o Canadá.<br>
 Contrariando a representação comum, os vikings não utilizavam capacetes/elmos com chifres, mas eram reconhecidos pelo uso de lanças em homenagem a Óðinn (Odin) e machados. Navegavam em embarcações ágeis, o que facilitava ataques surpresa e rápidas fugas, quando necessárias.</p>
 <hr>
