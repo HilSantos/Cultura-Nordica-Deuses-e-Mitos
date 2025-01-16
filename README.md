@@ -79,19 +79,19 @@ Múspellsheimr: reino do fogo, habitado pelos eldjǫtnar, liderados por Surtr, o
   <h2>Alguns dos poderes governantes das religiões nórdicas (Deuses Vikings):</h2>
 <hr>
     
-  <p>Óðinn: Maior dos deuses nórdicos e pai de todos.</p>  
-    <p>Quem foi Odin?</p>
+  <h2>Óðinn: Maior dos deuses nórdicos e pai de todos.</h2>  
+    Quem foi Odin?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6OewcuACSeU?si=VgxVYOaDkZ_GCcLa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>    
   <h2>O Misterioso Pai de Odin, Borr.</h2><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SPuv6DLtBF4?si=h4EnEzeX2ybfvpYy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
   <h2>Frigg: Deusa do casamento e da profecia, esposa de Óðinn.</h2>  
-    <p>Quem foi Frigg?</p>
+    Quem foi Frigg?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gGDa06APwKc?si=5_sZsS7nkb615HJ_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
   <h2>Þórr: Deus do trovão e da força, filho de Óðinn.</h2>  
-    <p>Quem foi Thor?</p>
+    Quem foi Thor?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WiAf7ZlpYtg?si=SgEUo9l-SVnOahtn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
   <h2>Týr: Deus do combate, filho de Óðinn e Frigg.</h2>
@@ -101,7 +101,7 @@ Múspellsheimr: reino do fogo, habitado pelos eldjǫtnar, liderados por Surtr, o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VVXSajgpe4s?si=Y0oFycQruF10mpxS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
 <hr>
   <h2>Freyr: Deus da abundância e irmão de Freyja.</h2>  
-    <p>Quem era Frey?</p>
+    Quem era Frey?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mRsd0j9qTe8?si=Kjc7DifhZyx4GwZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
   <section class="História" id="historia.html">
@@ -162,8 +162,7 @@ Na Era Viking, a igualdade de gênero floresceu notavelmente, perdurando nas soc
 A conclusão baseia-se na análise de dados do Global History of Health Project (GHHP), que examina esqueletos humanos de mais de 100 sítios arqueológicos dos últimos 2000 anos.
 Os especialistas focaram na saúde e nutrição, utilizando os dentes para identificarem evidências de desnutrição ou doença na infância. A análise revelou uma notável igualdade nas condições de saúde entre mulheres e homens vikings. A utilização do comprimento do fêmur como indicador de saúde e dieta também reforça a ideia de homogeneidade entre os homens e as mulheres vikings. A estreita conexão entre a frequência de danos no esmalte dentário e o estado geral de saúde confirma que as mulheres vikings eram altas, fortes e saudáveis, características que contribuíram para a disseminação dos mitos sobre as Valkyrjur (Valquírias). A igualdade fora dos centros urbanos parece ter sido associada à especialização na criação de gado.<br> 
 Enquanto o aumento das colheitas demandava força muscular, tarefa predominantemente realizada por homens, a criação de animais permitiu que as mulheres contribuíssem significativamente para a renda familiar. Esse papel econômico provavelmente elevou a posição das mulheres na sociedade viking, tornando-as notavelmente prósperas em comparação com suas contemporâneas da Europa Medieval.<br>
-A "sociedade viking" se destaca como um exemplo notável de igualdade de gênero. O legado deixado pelas mulheres escandinavas durante a Era Viking continua a influenciar positivamente as sociedades contemporâneas da Dinamarca, Suécia e Noruega, contribuindo para sua prosperidade e estabilidade econômica.
-    </p>
+A "sociedade viking" se destaca como um exemplo notável de igualdade de gênero. O legado deixado pelas mulheres escandinavas durante a Era Viking continua a influenciar positivamente as sociedades contemporâneas da Dinamarca, Suécia e Noruega, contribuindo para sua prosperidade e estabilidade econômica.</p>
 <hr>
   <h2>COMO VIVIAM AS MULHERES NÓRDICAS NA ERA VIKING? #17</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-E5vl-bNEJQ?si=Dco3r9x5J4iHlF3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -263,9 +262,8 @@ TENDER DE NATAL<br>
 <hr>
 TRONCO DE YULE<br> 
     
-Na tradição nórdica, um tronco foi cuidadosamente selecionado para que em uma cabine fosse levado para dentro de casa e queimado em uma lareira (de tijolo ou revestido de pedra) durante o Yule. Parte dele seria salvo e desligado até o ano seguinte, não apenas para proteger a casa, mas também para servir de lenha para o Yule subsequente. Embora uma tradição continue até hoje em todo o mundo, ela também se transformou em comida, com muitas pessoas optando por decorar suas mesas de Natal com um Bolo de Natal, ou Log de Yule — um rocambole de chocolate, coberto por chocolate e groselhas.ela também se transformou em comida, com muitas pessoas optando por decorar suas mesas de Natal com um Bolo de Natal, ou Log de Yule — um rocambole de chocolate, coberto por chocolate e groselhas.ela também se transformou em comida, com muitas pessoas optando por decorar suas mesas de Natal com um Bolo de Natal, ou Log de Yule — um rocambole de chocolate, coberto por chocolate e groselhas.
+Na tradição nórdica, um tronco foi cuidadosamente selecionado para que em uma cabine fosse levado para dentro de casa e queimado em uma lareira (de tijolo ou revestido de pedra) durante o Yule. Parte dele seria salvo e desligado até o ano seguinte, não apenas para proteger a casa, mas também para servir de lenha para o Yule subsequente. Embora uma tradição continue até hoje em todo o mundo, ela também se transformou em comida, com muitas pessoas optando por decorar suas mesas de Natal com um Bolo de Natal, ou Log de Yule — um rocambole de chocolate, coberto por chocolate e groselhas.ela também se transformou em comida, com muitas pessoas optando por decorar suas mesas de Natal com um Bolo de Natal, ou Log de Yule — um rocambole de chocolate, coberto por chocolate e groselhas.ela também se transformou em comida, com muitas pessoas optando por decorar suas mesas de Natal com um Bolo de Natal, ou Log de Yule — um rocambole de chocolate, coberto por chocolate e groselhas.</p>
 <hr>
-    </p>
   </div>
   </section>
         <section>
@@ -305,8 +303,7 @@ Na tradição nórdica, um tronco foi cuidadosamente selecionado para que em uma
             </div>
         </section>
        <hr>
-  <p>
-<strong>Bibliografia</strong><br>
+  <strong>Bibliografia</strong><br>
 <hr>
 <li><a href="https://www.livrosvikings.com.br/" target="_blank">Livros Vikings</a>
 <li><a href="https://www.academia.edu/8450813/Misterios_nordicos_mirella_faur_1_" target="_blank">Misterios Nordicos</a>
