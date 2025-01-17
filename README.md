@@ -302,6 +302,7 @@ Na tradição nórdica, um tronco foi cuidadosamente selecionado para que em uma
         </section>
         </main>
         </html>
+        </body>
        <hr>
   <strong>Bibliografia</strong><br>
 <hr>
@@ -325,4 +326,3 @@ Na tradição nórdica, um tronco foi cuidadosamente selecionado para que em uma
         <p>&copy; 2024 Cultura Nórdica. Todos os direitos</p>  
     
   <script src="script.js"></script>
-</body>
