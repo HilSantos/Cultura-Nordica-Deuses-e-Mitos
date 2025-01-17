@@ -1,7 +1,6 @@
 # Cultura-Nordica: Deuses e Mitos
 Parte dois da criação do Projeto Final UC15.
 
-<!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8">
@@ -301,6 +300,8 @@ Na tradição nórdica, um tronco foi cuidadosamente selecionado para que em uma
                 </figure>
             </div>
         </section>
+        </main>
+        </html>
        <hr>
   <strong>Bibliografia</strong><br>
 <hr>
@@ -320,10 +321,8 @@ Na tradição nórdica, um tronco foi cuidadosamente selecionado para que em uma
       </div>
 </div>
   </section>
-    </main>
-    <footer>
+      <footer>
         <p>&copy; 2024 Cultura Nórdica. Todos os direitos</p>  
     
   <script src="script.js"></script>
 </body>
-</html>
