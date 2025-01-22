@@ -308,7 +308,7 @@ Na tradição nórdica, um tronco foi cuidadosamente selecionado para que em uma
 <hr>
 <li><a href="https://www.livrosvikings.com.br/" target="_blank">Livros Vikings</a>
 <li><a href="https://www.academia.edu/8450813/Misterios_nordicos_mirella_faur_1_" target="_blank">Misterios Nordicos</a>
-<li><a href="https://www.amazon.com.br/Mitologia-N%C3%B3rdica-Neil-Gaiman/dp/8551001280" target="_blank">Mitologia Nordica</a>
+<li><a href="https://intrinseca.com.br/wp-content/uploads/2023/05/Issuu_MitologiaNordica_.pdf" target="_blank">Mitologia Nordica</a>
         <section class="Contato" id="contato.html">
     <div class="container">
       <div class="center">
