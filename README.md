@@ -39,6 +39,11 @@ Quanto à etimologia da palavra "viking", ela permanece incerta. A primeira apar
   <h2>A ERA VIKING - Os Guerreiros BRUTAIS, A Cultura e a Mitologia Nórdica.</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_DwBsuh98RA?si=oQGDd7mKyforghyV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
+  <h2>Palestra sobre Ásatrú Vanatrú/Paganismo Nórdico - 2015 - Folk encontro (cwb)</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lqgVvjKSvC4?si=k8_HKrvPPmCH_QU6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<hr>
+  <h2>Introdução sobre o Asatrú - Conhecendo a Religião - 1 Encontro Folk & Metal PR - 26/07/2015</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/owxQxsPnzG0?si=PVnPEi6U_3Y0YW7i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
   <section class="Mitologia" id="mitologia.html">
     <div class="Mitologia-text">
     <p>
