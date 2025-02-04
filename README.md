@@ -14,15 +14,15 @@ Parte dois da criação do Projeto Final UC15.
   <h1>Cultura Nórdica</h1>
     <nav>
             <ul class="navlist">
-                <li><a href="#index.html">Início</a></li>
-                <li><a href="#mitologia.html">Mitologia</a></li>
-                <li><a href="#historia.html">História</a></li>
-                <li><a href="#tradicoes.html">Tradições</a></li>
-                <li><a href="#contato.html">Contato</a></li>
+                <li><a href="Cultura Nordica.html" target="_blank">Início</a></li>
+                 <li><a href="mitologia.html" target="_blank">Mitologia</a></li>
+                 <li><a href="historia.html" target="_blank">História</a></li>
+                 <li><a href="tradições.html" target="_blank">Tradições</a></li>
+                 <li><a href="contato.html" target="_blank">Contato</a></li
            </ul>
         </nav>
     </header>
-  <section class="Início" id="index.html">
+  <section class="Início" id="cultura nordica.html">
     <div class="Início-text">
   <main>
     <p>
