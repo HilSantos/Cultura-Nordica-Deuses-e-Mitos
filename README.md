@@ -6,7 +6,7 @@ Parte dois da criação do Projeto Final UC15.
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Cultura Nórdica - História e Mitologia</title>
+  <title>Cultura Nórdica - Deuses e Mitos</title>
   <link rel="stylesheet" href="style.css">
 <link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
 
@@ -36,7 +36,6 @@ As colônias nórdicas originaram grupos como normandos, nórdicos-gaélicos, ru
 Os vikings falavam em norrœnt mál (língua nórdica antiga), registrando suas realizações em inscrições rúnicas e, principalmente, através das Sagas, contadas oralmente de geração e geração. Embora as antigas religiões nórdicas fossem predominantes, muitos se converteram ao cristianismo em determinado momento.<br>
 Quanto à etimologia da palavra "viking", ela permanece incerta. A primeira aparição de "wicinga" ocorreu no poema anglo-saxão Widsith, do Século X. Os próprios vikings não usavam o termo, e nas regiões por eles impactadas, diferentes designações eram utilizadas.
     </p>
-    </div>
   </section>
 <hr>
   <h2>A ERA VIKING - Os Guerreiros BRUTAIS, A Cultura e a Mitologia Nórdica.</h2>
@@ -109,7 +108,6 @@ Múspellsheimr: reino do fogo, habitado pelos eldjǫtnar, liderados por Surtr, o
   <h2>Freyr: Deus da abundância e irmão de Freyja.</h2>  
     Quem era Frey?<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mRsd0j9qTe8?si=Kjc7DifhZyx4GwZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
 </section>
 <hr>
   <section id="historia">
