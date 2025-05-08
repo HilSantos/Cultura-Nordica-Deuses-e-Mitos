@@ -6,25 +6,25 @@ Parte dois da criação do Projeto Final UC15.
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cultura Nórdica - História e Mitologia</title>
   <link rel="stylesheet" href="css/estilos.css" />
 </head>
 <body>
   <header>
   <h1>Cultura Nórdica</h1>
     <nav>
-            <ul class="navlist">
-                <li><a href="Cultura Nordica.html" target="_blank">Início</a></li>
-                 <li><a href="mitologia.html" target="_blank">Mitologia</a></li>
-                 <li><a href="historia.html" target="_blank">História</a></li>
-                 <li><a href="tradições.html" target="_blank">Tradições</a></li>
-                 <li><a href="contato.html" target="_blank">Contato</a></li
-           </ul>
-        </nav>
-    </header>
+  <ul class="navlist">
+    <li><a href="#inicio">Início</a></li>
+    <li><a href="#mitologia">Mitologia</a></li>
+    <li><a href="#historia">História</a></li>
+    <li><a href="#tradicões">Tradições</a></li>
+    <li><a href="#contato">Contato</a></li>
+  </ul>
+</nav>
+</header>
 
   <main>
-  <section class="Início" id="cultura nordica.html">
-    <div class="Início-text">
+  <section id="inicio">
     <h2>Os vikings: a história dos povos do norte</h2>
   <hr>
     <p>Os Vikings, cujo nome deriva do termo nórdico antigo "víkingar" ou “vikingr” no singular, foram exploradores, guerreiros, comerciantes e piratas originários do Norte da Europa, especialmente da Escandinávia.    
@@ -46,8 +46,7 @@ Quanto à etimologia da palavra "viking", ela permanece incerta. A primeira apar
   <h2>Introdução sobre o Asatrú - Conhecendo a Religião - 1 Encontro Folk & Metal PR - 26/07/2015</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/owxQxsPnzG0?si=PVnPEi6U_3Y0YW7i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <hr>
-  <section class="Mitologia" id="mitologia.html">
-    <div class="Mitologia-text">
+  <section id="mitologia">
     <h2>Mitologia Nórdica</h2>
 <hr>
 <p>A Mitologia Nórdica, também conhecida como mitologia germânica ou escandinava, compreende o conjunto de lendas e crenças dos povos germânicos antigos que habitavam a região da Europa Setentrional.
@@ -111,8 +110,7 @@ Múspellsheimr: reino do fogo, habitado pelos eldjǫtnar, liderados por Surtr, o
 </div>
 </section>
 <hr>
-  <section class="História" id="historia.html">
-    <div class="História-text">
+  <section id="historia">
     <h2>Registros históricos</h2>
 <hr>
 <p>
@@ -200,8 +198,7 @@ A "sociedade viking" se destaca como um exemplo notável de igualdade de gênero
 </section>
 <br>
 <hr>
-  <section class="Tradições" id="tradicoes.html">
-    <div class="Tradições-text">
+  <section id="tradicoes">
    <h2>Forn Siðr</h2><br>
 <hr>
       <p>Forn Siðr, traduzido do norrœnt como "Antigo Costume", representa a fé nórdica nativa, remontando ao período pré-cristão. Essa tradição religiosa está intrinsecamente conectada aos textos escandinavos fundamentais, como a Edda poética e a Edda em prosa. A compreensão do desenvolvimento dos costumes religiosos e culturais nórdicos é facilitada por estudos etimológicos e arqueológicos, ainda assim, existe um equívoco moderno o qual sugere que todas as práticas religiosas e espirituais pré-cristãs foram totalmente perdidas. Contudo, essa não é a realidade para todas as comunidades. Embora algumas culturas tenham experimentado uma ruptura significativa, a cultura e a fé nórdicas nunca foram totalmente suprimidas, mesmo com a cristianização ocorrendo na Escandinávia, embora de maneira mais tardia em comparação a outras regiões da Europa.<br>
