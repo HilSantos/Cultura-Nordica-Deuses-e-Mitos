@@ -9,6 +9,36 @@ Parte dois da criação do Projeto Final UC15.
   <title>Cultura Nórdica - Deuses e Mitos</title>
   <link rel="stylesheet" href="style.css">
 <link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
+<style>
+  body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #031220;
+  margin: 0;
+  padding: 20px;
+  }
+
+  p {
+    color;
+    }
+
+h1 {
+  color: #dfd32a;
+  text-align: left;
+  margin-bottom: 40px;
+  }
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #3bdb49;
+  }
+
+h3 {
+  color: #3bdb49;
+  margin-bottom: 20px;
+  text-align: center;
+  }
+</style>
 
 </head>
 <body>
