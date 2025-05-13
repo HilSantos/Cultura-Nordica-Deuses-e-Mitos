@@ -38,6 +38,14 @@ h3 {
   margin-bottom: 20px;
   text-align: center;
   }
+
+  .video-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
+}
+
 </style>
 
 </head>
