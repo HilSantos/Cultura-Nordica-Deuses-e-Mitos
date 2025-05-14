@@ -11,17 +11,36 @@ Parte dois da criação do Projeto Final UC15.
 <link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
 <style>
   body {
+  background-image: url('Users/hilton.lssantos/Pictures/Woden.webp');
+  background-size: cover;
+  background-repeat: repeat;
+  background-position: center;
+  background: radial-gradient(circle, #6a11cb, #2575fc, #ff7e5f);
+  margin-left: auto;
+  margin-right: auto;
+  height: 100vh;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: #031220;
   margin: 0;
   padding: 20px;
   }
 
-  p {
-    color;
-    }
+header {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid #ccc;
+  }
+  
+  header h1 {
+    font-size: 2.5em;
+    margin: 0;
+    background-color: #252323;
+    height: 100px;
+    width: 100%;
+  }
 
-h1 {
+ h1 {
   color: #dfd32a;
   text-align: left;
   margin-bottom: 40px;
@@ -45,6 +64,138 @@ h3 {
   align-items: center;
   margin: 20px 0;
 }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0 0;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  nav ul li a:hover {
+    background-color: #fff;
+    color: #000;
+  }
+  
+  #Início a[href="inicio"],
+  #Mitologia a[href="mitologia"],
+  #Historia a[href="historia"],
+  #Tradições a[href="tradicoes"],
+  #Contato a[href="contato"] {
+    background-color: #c0262c;
+  }
+  
+  #Início aside {
+    width: 230px;
+    float: left;
+    margin-top: 30px;
+  }
+  
+  #Início main {
+    width: 490px;
+    float: left;
+    margin: 30px 25px 10px;
+  }
+  
+  footer {
+    clear: both;
+    border-top: 7px solid #999;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
+  main {
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    margin: 20px auto;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  }
+  
+  main p, main strong {
+    font-size: 1.2em;
+    line-height: 1.6;
+  }
+  
+  hr {
+    border: none;
+    border-top: 2px solid #ccc;
+    margin: 20px 0;
+    color: gold;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.7);
+    border-top: 2px solid #ccc;
+  }
+  
+  footer p {
+    margin: 0;
+    font-size: 0.9em;
+  }
+  
+  /* Image Gallery Styles */
+  .image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .image-gallery figure {
+    margin: 10px;
+    width: 30%; /* Adjust as needed for responsiveness */
+    box-sizing: border-box;
+  }
+  
+  .image-gallery img {
+    width: 100%;
+    height: auto;
+    display: block; /* Prevents extra space below images */
+  }
+  
+  .image-gallery figcaption {
+    text-align: center;
+    font-style: italic;
+    color: #ddd;
+    margin-top: 5px;
+  }
+  
+  @media (max-width: 768px) {
+    .image-gallery figure {
+      width: 45%;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .image-gallery figure {
+      width: 100%;
+    }
+  }
 
 </style>
 
